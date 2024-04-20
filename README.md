@@ -1,3 +1,4 @@
+<foreignObject>
 <body>
   <h1 align="center">Hi 👋, I'm Michał Tomasz Szymczak</h1>
   <h3 align="center">A passionate frontend developer from Poland</h3>
@@ -39,4 +40,4 @@
 
   <img align="center" class="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=minki23&" alt="minki23" />
 </body>
-
+</foreignObject>
