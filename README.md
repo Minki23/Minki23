@@ -36,8 +36,11 @@
     <img class="Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minki23&show_icons=true&locale=en&layout=compact" alt="minki23" />
     <img align="center" class="Stats" src="https://github-readme-stats.vercel.app/api?username=minki23&show_icons=true&locale=en" alt="minki23" />
   </p>
-<foreignObject>
-  <style>
+  <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
   .Languages{
     display: inline;
     justify-content: center;
@@ -56,7 +59,9 @@
     margin: auto;
   }
   </style>
-</foreignObject>
+    </div>
+  </foreignObject>
+</svg>
   <img align="center" class="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=minki23&" alt="minki23" />
 </body>
 
