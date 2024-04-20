@@ -1,5 +1,5 @@
 <head>
-  <style>
+  <styles>
   .Languages{
     display: inline;
     justify-content: center;
@@ -27,7 +27,7 @@
   justify-content: center;
   margin: auto;
 }
-  </style>
+  </styles>
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Michał Tomasz Szymczak</h1>
