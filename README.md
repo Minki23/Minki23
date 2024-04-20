@@ -36,6 +36,7 @@
     <img class="Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minki23&show_icons=true&locale=en&layout=compact" alt="minki23" />
     <img align="center" class="Stats" src="https://github-readme-stats.vercel.app/api?username=minki23&show_icons=true&locale=en" alt="minki23" />
   </p>
+<foreignObject>
   <style>
       .Languages{
     display: inline;
@@ -55,6 +56,7 @@
   margin: auto;
 }
   </style>
+</foreignObject>
   <img align="center" class="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=minki23&" alt="minki23" />
 </body>
 
