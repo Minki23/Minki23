@@ -32,10 +32,29 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
         </a>
       </p>
-  <p class="first_block" display="flex" justify-content="center" background="red">
+  <p class="first_block">
     <img class="Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minki23&show_icons=true&locale=en&layout=compact" alt="minki23" />
     <img align="center" class="Stats" src="https://github-readme-stats.vercel.app/api?username=minki23&show_icons=true&locale=en" alt="minki23" />
   </p>
+  <style>
+      .Languages{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.Stats{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.first_block{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+  </style>
   <img align="center" class="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=minki23&" alt="minki23" />
 </body>
 
