@@ -38,32 +38,4 @@
   </p>
   <img align="center" class="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=minki23&" alt="minki23" />
 </body>
-<style>
-  .Languages{
-    display: inline;
-    justify-content: center;
-    align-items: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin: auto;
-}
-.Stats{
-    display: inline;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-}
-.Streak{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin: auto;
-}
-.first_block{
-  display: flex;
-  justify-content: center;
-  margin: auto;
-}
-  </style>
+
