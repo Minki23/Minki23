@@ -38,23 +38,23 @@
   </p>
 <foreignObject>
   <style>
-      .Languages{
+  .Languages{
     display: inline;
     justify-content: center;
     align-items: center;
     margin: auto;
-}
-.Stats{
-    display: inline;
+  }
+  .Stats{
+      display: inline;
+      justify-content: center;
+      align-items: center;
+      margin: auto;
+  }
+  .first_block{
+    display: flex;
     justify-content: center;
-    align-items: center;
     margin: auto;
-}
-.first_block{
-  display: flex;
-  justify-content: center;
-  margin: auto;
-}
+  }
   </style>
 </foreignObject>
   <img align="center" class="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=minki23&" alt="minki23" />
