@@ -1,5 +1,31 @@
 <head>
-  <link rel="stylesheet" href="styles.css">
+  .Languages{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: auto;
+}
+.Stats{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.Streak{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: auto;
+}
+.first_block{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Michał Tomasz Szymczak</h1>
