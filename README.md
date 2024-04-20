@@ -1,3 +1,4 @@
+<img src="header.svg" width="800" height="400">
 <body>
   <h1 align="center">Hi 👋, I'm Michał Tomasz Szymczak</h1>
   <h3 align="center">A passionate frontend developer from Poland</h3>
