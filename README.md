@@ -39,4 +39,11 @@
   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minki23&" alt="minki23" />
   </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+<br/>
+
+[![Minki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Minki23&theme=react-dark)](https://github.com/Minki23/github-readme-activity-graph)
 </body>
