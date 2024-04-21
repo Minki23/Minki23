@@ -33,17 +33,10 @@
     <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
   </p>
   <p align="center">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minki23&show_icons=true&locale=en&layout=compact" alt="minki23" />
-    <img align="center" class="Stats" src="https://github-readme-stats.vercel.app/api?username=minki23&show_icons=true&locale=en" alt="minki23" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minki23&theme=dark">
+    <img align="center" class="Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=minki23&theme=dark" alt="minki23" />
   </p>
   <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minki23&" alt="minki23" />
+    <img align="center" class="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minki23&theme=radical&hide_border=true" alt="minki23" />
   </p>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-<br/>
-
-[![Minki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Minki23&theme=react-dark)](https://github.com/Minki23/github-readme-activity-graph)
 </body>
